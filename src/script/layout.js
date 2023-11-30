@@ -33,6 +33,10 @@ const TAB_BUTTON_LIST = [
     },
 ]
 
+const MAIN_INFO = {
+    img: '/img/main_image.png',
+}
+
 export const createHeader = () => {
     const header = createElement('header', 'header')
 
